@@ -8,7 +8,7 @@
 	<li>Head 구성</li>
 	<li>Body 구성</li>
 </ol>
-<pre>&lt;!DOCTYPE html&gt;</pre>
+<pre>&lt;!<span class="pl-ent">DOCTYPE</span> html&gt;</pre>
 ##DOCTYPE
 DOCTYPE 버전 종류
 - HTML 5 (HTML5에서는 SGML에 기반을 두지 않아서 DTD 참조가 필요 없으며, 최소한의 코드 작성이 기본 방향이라 매우 간단히 선언할 수 있다.)
@@ -18,7 +18,7 @@ DOCTYPE 버전 종류
 - XHTML 1.0 Strict (W3C가 의도했던 문서 타입으로, 구조와 표현을 분리하기 위해 단계적으로 사라질 표현에 관한 요소와 속성을 배제한 문서 타입이다. center, font, iframe, strike, u, 새창띄우기 등이 제한된다.)
 - XHTML 1.0 Transitional (기존에 만들어진 문서들과의 호환성을 유지하기 위해 사용한다. iframe과 새창띄우기(target="_blank")등을 사용할 수 있어 XHTML 사용시 이것을 추천한다.)
 - XHTML 1.0 Frameset (현재는 거의 사용하지 않는 프레임셋을 구현하기 위해서 사용한다.)
-- XHTML 1.1 (기존의 XHTML 1.0 Strict DTD를 기본으로 한다.)
+- XHTML 1.1 (기존의 XHTML 1.0 Strict DTD를 기본으로 한다.
 
 DOCTYPE 버전별 선언
 - HTML5 <!DOCTYPE html>
