@@ -1,7 +1,7 @@
 # Markup guide
 <p>모든 프로젝트 Markup에 표준을 제공하고, 코드에 통일성을 주기 위한 가이드입니다.</p>
 <hr />
-<h2>Contents List</h2>
+<h2>**Contents List**</h2>
 <ol>
 	<li>DTD (Document Type Definition) 선언</li>
 	<li>Language 선언</li>
