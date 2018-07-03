@@ -1,6 +1,6 @@
 # Markup guide
 <p>모든 프로젝트 Markup에 표준을 제공하고, 코드에 통일성을 주기 위한 가이드입니다.</p>
-***
+<hr />
 
 ##DOCTYPE
 DOCTYPE 버전 종류
