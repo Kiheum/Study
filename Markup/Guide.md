@@ -1,11 +1,12 @@
 # Markup guide
 <p>모든 프로젝트 Markup에 표준을 제공하고, 코드에 통일성을 주기 위한 가이드입니다.</p>
 <hr />
+## Contents List
 <ol>
-	<li>1</li>
-	<li>2</li>
-	<li>3</li>
-	<li>4</li>
+	<li>DTD (Document Type Definition) 선언</li>
+	<li>Language 선언</li>
+	<li>Head 구성</li>
+	<li>Body 구성</li>
 </ol>
 <pre>&lt;!DOCTYPE html&gt;</pre>
 ##DOCTYPE
