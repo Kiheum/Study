@@ -1,6 +1,6 @@
 # Markup guide
 Markup 할때 참고해야 할 사항을 정리
-<!-- background: #fff4e3 -->
+<span>123</span>
 ##DOCTYPE
 DOCTYPE 버전 종류
 - HTML 5 (HTML5에서는 SGML에 기반을 두지 않아서 DTD 참조가 필요 없으며, 최소한의 코드 작성이 기본 방향이라 매우 간단히 선언할 수 있다.)
