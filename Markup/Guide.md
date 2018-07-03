@@ -1,7 +1,13 @@
 # Markup guide
 <p>모든 프로젝트 Markup에 표준을 제공하고, 코드에 통일성을 주기 위한 가이드입니다.</p>
 <hr />
-<pre>&lt;&gt;</pre>
+<ol>
+	<li>1</li>
+	<li>2</li>
+	<li>3</li>
+	<li>4</li>
+</ol>
+<pre>&lt;!DOCTYPE html&gt;</pre>
 ##DOCTYPE
 DOCTYPE 버전 종류
 - HTML 5 (HTML5에서는 SGML에 기반을 두지 않아서 DTD 참조가 필요 없으며, 최소한의 코드 작성이 기본 방향이라 매우 간단히 선언할 수 있다.)
