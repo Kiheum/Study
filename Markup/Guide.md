@@ -1,6 +1,6 @@
 # Markup guide
 Markup 할때 참고해야 할 사항을 정리
-
+<!-- background: #fff4e3 -->
 ##DOCTYPE
 DOCTYPE 버전 종류
 - HTML 5 (HTML5에서는 SGML에 기반을 두지 않아서 DTD 참조가 필요 없으며, 최소한의 코드 작성이 기본 방향이라 매우 간단히 선언할 수 있다.)
@@ -35,28 +35,3 @@ meta 태그의 속성
 - name="정보 이름" (몇 개의 meta 정보의 이름을 정할 수 있으며 지정하지 않으면 http-equiv 와 같은 기능을 한다.)
 
 meta 태그의 종류
-- <meta name="Keywords" content="" /> (검색 엔진에 의해 검색되는 단어를 지정한다.)
-- <meta name="Description" content="" /> (검색 결과에 표시되는 문자를 지정한다.)
-- <meta name="Robots" content="" /> (검색 로봇을 제어한다.)
-- <meta name="Date" content="" /> (날짜나 제작일을 지정한다.)
-- <meta http-equiv="Content-Type" content="" /> (문자 코드의 종류를 설정한다.)
-- <meta http-equiv="Content-Script-Type" content="" />, <meta http-equiv="Content-Style-Type" content="" /> (웹 페이지에 쓰인 언어를 지정한다.)
-- <meta http-equiv="X-UA-Compatible" content="" /> (브라우저 호환성을 지정한다.)
-- <meta http-equiv="Subject" content="" /> (홈페이지 주제를 지정한다.)
-- <meta http-equiv="Title" content="" /> (제목을 지정한다.)
-- <meta http-equiv="Author" content="" /> (제작자명을 지정한다.)
-- <meta http-equiv="Publisher" content="" /> (제작사를 지정한다.)
-- <meta http-equiv="Other Agent" content="" /> (웹 책임자를 지정한다.)
-- <meta http-equiv="Generator" content="" /> (제작 도구를 지정한다.)
-- <meta http-equiv="Reply-To" content="" />, <meta http-equiv="Email" content="naver@naver.com" /> (메일 주소를 지정한다.)
-- <meta http-equiv="Filename" content="" /> (파일 이름을 지정한다.)
-- <meta http-equiv="Location" content="" /> (위치를 지정한다.)
-- <meta http-equiv="Distribution" content="" /> (배포자를 지정한다.)
-- <meta http-equiv="Copyright" content="" /> (저작권을 지정한다.)
-- <meta http-equiv="Build" content="" /> (제작 년,월,일을 지정한다.)
-- <meta http-equiv="Last-Modified" content="" /> (최종 수정일을 정의한다.)
-- <meta http-equiv="imagetoolbar" content="" /> (그림 위에 마우스 오버시 이미지 관련 툴바의 사용여부를 결정한다.)
-- <meta http-equiv="Cache-Control" content="" />, <meta http-equiv="Pragma" content="" /> (캐쉬가 되지 않도록 하기 위해 정의한다.)
-- <meta http-equiv="Expires" content="" /> (캐쉬 만료일을 정의한다.)
-- <meta http-equiv="Refresh" content="" /> (페이지 새로고침이나 페이지 이동을 설정한다.)
-- <meta http-equiv="Page-Enter" content="" /> (페이지 들어갈 때 장면 전환 효과를 줄 수 있다.)
