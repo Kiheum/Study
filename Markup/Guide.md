@@ -28,8 +28,16 @@ HTML 문자 인코딩 선언은 meta 태그를 사용하여 기본적으로 utf-
 	<p>Tab 사용 (O)</p>
 </div>
 ```
-### 1.3 자기 마침 태그(Self-Closing Tags) 사용 시 닫기 슬래시`(/)`를 사용한다.
-
+### 1.3 자기 마침 태그(Self-Closing Tags)
+자기 마침 태그 사용 시에는 띄어쓰기 후 닫기 슬래시`(/)`를 사용한다.
+``` html
+<meta name="" content="" />
+<link rel="" type="" href="" />
+<input type="text" />
+<col />
+<img />
+<hr />
+```
 
 ## 2. DTD (Document Type Definition) 선언
 DOCTYPE 선언은 HTML5 문서를 기본으로 합니다.
