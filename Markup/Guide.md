@@ -21,7 +21,11 @@ HTML 문자 인코딩 선언은 meta 태그를 사용하여 기본적으로 utf-
 들여쓰기의 경우 Space를 사용하지 않고 Tab만을 이용하여 작업한다.
 ``` html
 <div class="exem">
-	<p>들여쓰기</p>
+  <p>들여쓰기 (X)</p>
+     <p>들여쓰기 (X)</p>
+</div>
+<div class="exem">
+	<p>들여쓰기 (O)</p>
 </div>
 ```
 
