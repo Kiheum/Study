@@ -33,14 +33,15 @@ HTML 문자 인코딩 선언은 meta 태그를 사용하여 기본적으로 utf-
 ``` html
 <meta name="" content="" />
 <link rel="" type="" href="" />
-<input type="text" />
+<input type="" />
 <col />
 <img />
 <hr />
 ```
 
 ## 2. DTD (Document Type Definition) 선언
-DOCTYPE 선언은 HTML5 문서를 기본으로 사용하되 HTML5에서 추가된 태그들을 사용하지 않습니다. (IE 하위 버전 크로스 브라우징을 위함)
+DOCTYPE 선언은 HTML5 문서를 기본으로 사용하되 HTML5에서 추가된 태그들을 사용하지 않습니다.  
+(IE 하위 버전 크로스 브라우징을 위함)  
 ex : `<header>`, `<section>`, `<footer>`, `<nav>`, `<article>` 등
 ``` html
 <!DOCTYPE html>
