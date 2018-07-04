@@ -19,8 +19,7 @@ ex : `<header>`, `<section>`, `<footer>`, `<nav>`, `<article>` 등
 ```
 
 ## 2. language
-language 속성을 기본적으로 `<html>` 태그에 지정한다.
-__(ex : `lang="ko"`, `lang="en", lang="ja"`등__
+language 속성을 기본적으로 `<html>` 태그에 지정한다. (ex : `lang="ko"`, `lang="en", lang="ja"`등)
 ``` html
 <html lang="ko">
 ```
@@ -38,7 +37,7 @@ __(ex : `lang="ko"`, `lang="en", lang="ja"`등__
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, user-scalable=no" />
-<title>2018 히든홀 신비의 동굴 &ndash; 이벤트 | KaKaoVX</title>
+<title>2018 히든홀 신비의 동굴 – 이벤트 | KaKaoVX</title>
 <meta name="keyword" content="markup guide" />
 <link rel="stylesheet" type="text/css" href="reset.css" />
 ```
