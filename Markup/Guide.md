@@ -17,7 +17,7 @@ HTML 문자 인코딩 선언은 meta 태그를 사용하여 기본적으로 utf-
 ``` html
 <meta charset="utf-8" />
 ```
-### 1.2 HTML, javascript 들여쓰기
+### 1.2 HTML 들여쓰기
 들여쓰기의 경우 Space를 사용하지 않고 Tab만을 이용하여 작업한다.
 ``` html
 <div class="exem">
@@ -28,14 +28,8 @@ HTML 문자 인코딩 선언은 meta 태그를 사용하여 기본적으로 utf-
 	<p>Tab 사용 (O)</p>
 </div>
 ```
-``` javascript
-function space()  {
-  console.log(space X)
-}
-function tab()  {
-	console.log(tab O)
-}
-```
+### 1.3 자기 마침 태그(Self-Closing Tags) 사용 시 닫기 슬래시`(/)`를 사용한다.
+
 
 ## 2. DTD (Document Type Definition) 선언
 DOCTYPE 선언은 HTML5 문서를 기본으로 합니다.
