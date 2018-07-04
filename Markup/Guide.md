@@ -20,7 +20,7 @@ ex : `<header>`, `<section>`, `<footer>`, `<nav>`, `<article>` 등
 
 ## 2. language
 language 속성을 기본적으로 `<html>` 태그에 지정한다.
-__(ex : `lang="ko"`, `lang="en", lang="ja" 등`__
+__(ex : `lang="ko"`, `lang="en", lang="ja"`등__
 ``` html
 <html lang="ko">
 ```
