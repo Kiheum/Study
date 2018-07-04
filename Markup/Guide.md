@@ -87,7 +87,7 @@ __id의 경우 같은 이름으로 작성하지 않는다. 또한 최소화하�
 ```
 
 ## 7. self-closing tags
-self-closing tags 작성 시 닫기 슬래시 (`&#47;`)를 사용한다.  
+self-closing tags 작성 시 닫기 슬래시 (`/;`)를 사용한다.  
 __DOCTYPE이 HTML5 문서라고 하더라도 사용한다. (웹 표준 준수)__
 ``` html
 <meta name="" content="" />
