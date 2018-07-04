@@ -44,7 +44,7 @@ language 속성을 기본적으로 `<html>` 태그에 지정한다. (ex : `lang=
 
 ## 4. skip navigation
 웹 접근성을 준수하여 본문으로 바로 이동 가능한 건너뛰기 링크를 작성한다.  
-__skip navigation의 경우 사용자의 혼선을 막기 위해 `<body>` 가 시작하고 바로 제공할 수 있도록 한다.__
+__skip navigation의 경우 사용자의 혼선을 막기 위해__ `<body>` __가 시작하고 바로 제공할 수 있도록 한다.__
 ``` html
 <body>
 	<div id="skip-navigation">
@@ -59,7 +59,7 @@ __skip navigation의 경우 사용자의 혼선을 막기 위해 `<body>` 가 �
 ```
 
 ## 5. body
-`<body>` 의 문서 안에 JS 문서를 호출하되 반드시 가장 하단에 호출하도록 한다.
+`<body>` 의 문서 안에 JS 문서를 호출하되 반드시 가장 하단에 호출하도록 한다.  
 __웹 브라우저가 렌더링 되는 과정에서 HTML, CSS문서를 먼저 해석하고 마지막에 JS를 불러오기 위함__  
 전체 컨텐츠를 컨트롤 할 수 있는 `<div class="wrap"></div>` 작성하도록 한다.
 ``` html
@@ -78,7 +78,7 @@ __웹 브라우저가 렌더링 되는 과정에서 HTML, CSS문서를 먼저 �
 
 ## 6. attribute
 attribute 작성 시 쌍 따옴표를 사용하고 `""`,  
-우선순위는 `rel`, `type`, `href, src`, `width, height`, `target`, `id`, `name`, `class`, `style`, `title, alt`, `기타` 순으로 작성한다.
+우선순위는 `rel`, `type`, `href, src`, `width, height`, `target`, `id`, `name`, `class`, `style`, `title, alt`, `기타` 순으로 작성한다.  
 __id의 경우 같은 이름으로 작성하지 않는다. 또한 최소화하도록 한다.__
 ``` html
 <a href="" target="" id="" class="" style="" title="">예제</a>
@@ -87,7 +87,7 @@ __id의 경우 같은 이름으로 작성하지 않는다. 또한 최소화하�
 ```
 
 ## 7. self-closing tags
-self-closing tags 작성 시 닫기 슬래시 (`&#47;`)를 사용한다.
+self-closing tags 작성 시 닫기 슬래시 (`&#47;`)를 사용한다.  
 __DOCTYPE이 HTML5 문서라고 하더라도 사용한다. (웹 표준 준수)__
 ``` html
 <meta name="" content="" />
